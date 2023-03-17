@@ -1,0 +1,274 @@
+,Company,Problem Number
+0,Amazon,1245
+1,Google,1212
+2,Microsoft,761
+3,Facebook,691
+4,Apple,641
+5,Bloomberg,617
+6,Adobe,523
+7,Uber,449
+8,Oracle,230
+9,Goldman Sachs,203
+10,TikTok,202
+11,Yahoo,177
+12,LinkedIn,175
+13,ByteDance,165
+14,Salesforce,133
+15,Walmart Global Tech,131
+16,Snapchat,127
+17,VMware,117
+18,Twitter,102
+19,eBay,98
+293,Expedia,88
+294,Paypal,86
+295,DoorDash,82
+296,Cisco,76
+297,Visa,65
+298,Samsung,64
+299,JPMorgan,64
+300,Airbnb,62
+301,Yandex,62
+302,Intuit,62
+303,Qualtrics,62
+304,Nvidia,60
+305,Infosys,59
+306,Flipkart,55
+307,tcs,50
+308,DE Shaw,50
+309,Citadel,49
+310,ServiceNow,43
+311,Tesla,43
+312,Morgan Stanley,42
+586,Zillow,42
+587,Wix,37
+588,Wayfair,35
+589,Square,35
+590,IBM,34
+591,Intel,33
+592,Atlassian,33
+593,Qualcomm,32
+594,Indeed,32
+595,Spotify,31
+596,Arcesium,30
+597,Lyft,30
+598,Pinterest,30
+599,Splunk,29
+600,Twilio,29
+601,Mathworks,28
+602,Nutanix,28
+603,SAP,27
+604,PayTM,27
+605,Shopee,27
+879,Wish,27
+880,Yelp,26
+881,Twitch,26
+882,American Express,26
+883,Rubrik,26
+884,Palantir Technologies,26
+885,Zoho,25
+886,Dropbox,25
+887,Quora,25
+888,Grab,24
+889,Roblox,24
+890,Capital One,23
+891,Docusign,23
+892,Zenefits,23
+893,Cruise Automation,23
+894,Sprinklr,23
+895,Media.net,23
+896,Akuna Capital,23
+897,HRT,23
+898,PhonePe,22
+1172,Swiggy,21
+1173,Karat,21
+1174,Dunzo,20
+1175,MakeMyTrip,18
+1176,C3 IoT,18
+1177,Databricks,18
+1178,Coupang,18
+1179,Booking.com,17
+1180,TuSimple,17
+1181,Zoom,16
+1182,Pocket Gems,16
+1183,Two Sigma,16
+1184,Nagarro,15
+1185,Accenture,15
+1186,Arista Networks,15
+1187,GoDaddy,14
+1188,Accolite,14
+1189,HBO,14
+1190,Reddit,14
+1191,Robinhood,14
+1465,Coinbase,13
+1466,BlackRock,12
+1467,Netflix,12
+1468,Bolt,12
+1469,Hotstar,12
+1470,FactSet,11
+1471,ShareChat,11
+1472,Coursera,11
+1473,Audible,11
+1474,IXL,11
+1475,MindTickle,11
+1476,Citrix,10
+1477,Epam Systems,10
+1478,instacart,10
+1479,Baidu,10
+1480,Directi,10
+1481,Cognizant,9
+1482,Huawei,9
+1483,Codenation,9
+1484,Deutsche Bank,8
+1758,Sumologic,8
+1759,Affirm,8
+1760,Hulu,8
+1761,McKinsey,8
+1762,Dell,7
+1763,Epic Systems,7
+1764,Hudson River Trading,7
+1765,LiveRamp,7
+1766,Virtu Financial,7
+1767,Myntra,7
+1768,Pony.ai,7
+1769,Jane Street,7
+1770,ZScaler,6
+1771,Zomato,6
+1772,Capgemini,6
+1773,Mercari,6
+1774,Redfin,6
+1775,Duolingo,6
+1776,Cohesity,6
+1777,Houzz,6
+2051,Cloudera,6
+2052,Groupon,6
+2053,DRW,6
+2054,Optum,5
+2055,Alibaba,5
+2056,Zynga,5
+2057,razorpay,5
+2058,Toptal,5
+2059,Asana,5
+2060,Poshmark,5
+2061,Tableau,5
+2062,Juspay,5
+2063,epiFi,5
+2064,GSN Games,5
+2065,Point72,5
+2066,Akamai,4
+2067,Alation,4
+2068,Airtel,4
+2069,Tencent,4
+2070,Works Applications,4
+2344,Dataminr,4
+2345,Trilogy,4
+2346,Athenahealth,4
+2347,Clari,4
+2348,Box,4
+2349,Opendoor,4
+2350,AppDynamics,4
+2351,Pure Storage,4
+2352,InMobi,4
+2353,Siemens,3
+2354,persistent systems,3
+2355,Barclays,3
+2356,payu,3
+2357,Jump Trading,3
+2358,Snapdeal,3
+2359,Commvault,3
+2360,Riot Games,3
+2361,DiDi,3
+2362,PayPay,3
+2363,Cashfree,3
+2637,Deloitte,3
+2638,Lucid,3
+2639,Activision,3
+2640,Quip (Salesforce),3
+2641,Postmates,3
+2642,Info Edge,2
+2643,Softwire,2
+2644,Zopsmart,2
+2645,Société Générale,2
+2646,TripAdvisor,2
+2647,MindTree,2
+2648,Lending Club,2
+2649,National Instruments,2
+2650,Sapient,2
+2651,Tiger Analytics,2
+2652,Avalara,2
+2653,AQR Capital Management LLC,2
+2654,Canonical,2
+2655,Stripe,2
+2656,NetEase,2
+2930,Helix,2
+2931,Machine Zone,2
+2932,Fleetx,2
+2933,United Health Group,2
+2934,Kakao,2
+2935,Veritas,2
+2936,SoundHound,2
+2937,Netsuite,2
+2938,Thomson Reuters,2
+2939,Lowe,2
+2940,Analytics quotient,2
+2941,Electronic Arts,1
+2942,Millennium,1
+2943,Aetion,1
+2944,MAQ Software,1
+2945,Rackspace,1
+2946,Fallible,1
+2947,Zappos,1
+2948,Gilt Groupe,1
+2949,Valve,1
+3223,Poynt,1
+3224,GE Digital,1
+3225,TripleByte,1
+3226,Yatra,1
+3227,Radius,1
+3228,Drawbridge,1
+3229,Jingchi,1
+3230,Garena,1
+3231,ForUsAll,1
+3232,IIT Bombay,1
+3233,Leap Motion,1
+3234,Affinity,1
+3235,NextJump,1
+3236,edabit,1
+3237,AllinCall,1
+3238,general electric,1
+3239,Vimeo,1
+3240,codeagon,1
+3241,Mobisy,1
+3242,Honeywell,1
+3516,Quince,1
+3517,Moengage,1
+3518,alphonso,1
+3519,Xing,1
+3520,GE Healthcare,1
+3521,Code Studio,1
+3522,TIAA,1
+3523,Ascend,1
+3524,T System,1
+3525,Sony,1
+3526,Jeavio,1
+3527,BitGo,1
+3528,MishiPay,1
+3529,Wayve,1
+3530,RetailMeNot,1
+3531,zeta suite,1
+3532,FPT,1
+3533,T-mobile,1
+3534,Wealthfront,1
+3535,Pickrr,1
+3809,opentext,1
+3810,Discord,1
+3811,Altimetrik,1
+3812,DailyHunt,1
+3813,fourkites,1
+3814,Bridgewater Associates,1
+3815,Unbxd,1
+3816,zendesk,1
+3817,MachineZone,1
+3818,CoderByte,1
+3819,instagram,1
+3820,Strava,1
+3821,warnermedia,1
